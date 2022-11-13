@@ -24,27 +24,27 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      title: 'Master of science, Industrial Engineering (System Optimization)',
+      period: 'Sep. 2015 - Sep. 2017',
+      skills: ['Mathematical programming', 'Metaheuristics', 'Matlab'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Department of Engineering, University of Urmia
+Overall GPA: 3.19/4.0 (without thesis score) 
+Thesis: Providing a Metaheuristic Optimization Model for Patient Flow Management
+Thesis score: 3.78/4.0
+Supervisors: Dr. Ali Doniavi, Dr. Yalda Katebi
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      title: 'Bachelor of science, Industrial Engineering (Industrial Production)',
+      period: 'Sep. 2009 - Sep. 2013',
+      skills: ['GAMS', 'Mathematical programming'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
-`
-    },
-    {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
-      contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Department of Engineering, University of Kurdistan
+Overall GPA: 2.88/4.0
+Final Project: Classification of stock items based on their characteristics to determine the planning and controlling inventory system in “Ehya Sanat” company
+Thesis score: 4.0/4.0
+Supervisor: Dr. Fardin Ahmadi Zar
 `
     }
   ],
