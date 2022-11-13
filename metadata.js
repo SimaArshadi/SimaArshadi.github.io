@@ -1,12 +1,13 @@
 module.exports = {
-  name: 'Sima Arhsadi',
-  title: 'M.S. Industrial Engineering',
+  name: 'William Shakespeare',
+  title: 'Poet, playwright and actor',
   facts: {
-     'LinkedIn': `<a href="https://www.linkedin.com/in/sima-arshadi-5a113b77?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7wjq0l5GR520nNTgUFueiA%3D%3D">
-                  <i class="fa-brands fa-linkedin-w fact-icon"></i>Sima_Arshadi
+    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
+    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
+                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/SimaArshadi"><i class="fa-brands fa-twitter fact-icon"></i>SimaArshadi</a>`,
-    'Email': '<a href="mailto:sima.arshadi@outlook.com"><i class="fa fa-envelope fact-icon"></i>sima.arshadi@outlook.com</a>'
+    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
+    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
   },
   skills: [
     ['Comedy', 100],
@@ -24,56 +25,44 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Master of science, Industrial Engineering (System Optimization)',
-      period: 'Sep. 2015 - Sep. 2017',
-      skills: ['Mathematical programming', 'Metaheuristics', 'Matlab'],
+      title: 'Hamlet',
+      period: 'Likely early 17th century',
+      skills: ['tragedy', 'philosophy', 'death'],
       contents: `
-Department of Engineering, University of Urmia
-Overall GPA: 3.19/4.0 (without thesis score) 
-Thesis: Providing a Metaheuristic Optimization Model for Patient Flow Management
-Thesis score: 3.78/4.0
-Supervisors: Dr. Ali Doniavi, Dr. Yalda Katebi
+Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
 `
     },
     {
-      title: 'Bachelor of science, Industrial Engineering (Industrial Production)',
-      period: 'Sep. 2009 - Sep. 2013',
-      skills: ['GAMS', 'Mathematical programming'],
+      title: 'Twelfth Night',
+      period: '1600 – 1601',
+      skills: ['comedy', 'love'],
       contents: `
-Department of Engineering, University of Kurdistan
-Overall GPA: 2.88/4.0
-Final Project: Classification of stock items based on their characteristics to determine the planning and controlling inventory system in “Ehya Sanat” company
-Thesis score: 4.0/4.0
-Supervisor: Dr. Fardin Ahmadi Zar
+Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+`
+    },
+    {
+      title: 'The Tragedy of Romeo and Juliet',
+      period: '1595–1596, with a possible early draft written in 1591',
+      skills: ['tragedy', 'death', 'love'],
+      contents: `
+In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
 `
     }
   ],
   experience: [
     {
-      period: '2017-2019',
+      header: 'Performance',
       skills: ['theater', 'play'],
       contents: `
-Extending a dynamic model based on the presented model in the thesis by simulating model with MATLAB programming tool in cooperation with Dr. Yalda Katebi.`
+Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
+`
     },
     {
-      header: '2019-2020',
+      header: 'Poetry',
       skills: ['poetry', 'erotic'],
       contents: `
-Doing a project with Dr. Yalda Katebi to provide a Dynamic Flexible Job-Shop scheduling mathematical model and generating a modified multi-objective metaheuristic algorithm considering a hybrid algorithm based on MOPSO and Genetic algorithm`
+In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
+`
     }
   ]
 };
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
