@@ -1,3 +1,5 @@
+npm install --save metadata-js  # node
+npm install -g metadata-js      # command line
 module.exports = {
   name: 'William Shakespeare',
   title: 'Poet, playwright and actor',
