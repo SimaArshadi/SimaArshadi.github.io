@@ -50,18 +50,16 @@ Supervisor: Dr. Fardin Ahmadi Zar
   ],
   experience: [
     {
-      header: 'Performance',
+      period: '2017-2019',
       skills: ['theater', 'play'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
+Extending a dynamic model based on the presented model in the thesis by simulating model with MATLAB programming tool in cooperation with Dr. Yalda Katebi.`
     },
     {
-      header: 'Poetry',
+      header: '2019-2020',
       skills: ['poetry', 'erotic'],
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+Doing a project with Dr. Yalda Katebi to provide a Dynamic Flexible Job-Shop scheduling mathematical model and generating a modified multi-objective metaheuristic algorithm considering a hybrid algorithm based on MOPSO and Genetic algorithm`
     }
   ]
 };
